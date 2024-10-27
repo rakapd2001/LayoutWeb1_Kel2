@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-weight:bolder ;
+    font-family: sans-serif;
+}
+#container{
+    height: auto;
+}
+#box{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-flow: row wrap-reverse;
+    padding: 16px;
+    margin: 85px;
+
+}
+#box1{
+    height: 17vw;
+    width: 17vw;
+    background-color: aquamarine;
+}
+#box2{
+    height: 17vw;
+    width: 17vw;
+    background-color: blue;
+}
+#box3{
+    height: 17vw;
+    width: 17vw;
+    background-color: brown;
+}
+#box4{
+    height: 17vw;
+    width: 17vw;
+    background-color: yellowgreen;
+}
+#box5{
+    height: 17vw;
+    width: 17vw;
+    background-color: rgb(212, 212, 71);
+}
+#box6{
+    height: 17vw;
+    width: 17vw;
+    background-color: tomato;
+}
