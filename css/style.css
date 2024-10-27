@@ -1,11 +1,18 @@
+.navbar-brand{
+    font-weight:bolder ;
+    font-family: sans-serif;
+}
 #container{
-    height: 75vh;
+    height: auto;
 }
 #box{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: center;
-    wra
+    flex-flow: row wrap-reverse;
+    padding: 16px;
+    margin: 85px;
+
 }
 #box1{
     height: 17vw;
@@ -30,7 +37,7 @@
 #box5{
     height: 17vw;
     width: 17vw;
-    background-color: beige;
+    background-color: rgb(212, 212, 71);
 }
 #box6{
     height: 17vw;
