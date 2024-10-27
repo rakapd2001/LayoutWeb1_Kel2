@@ -17,30 +17,36 @@
 #box1{
     height: 17vw;
     width: 17vw;
+    border: 5px solid black ;
     background-color: aquamarine;
 }
 #box2{
     height: 17vw;
     width: 17vw;
+    border: 10px solid black ;
     background-color: blue;
 }
 #box3{
     height: 17vw;
     width: 17vw;
-    background-color: brown;
+    border: 15px solid black ;
+    background-color: lightgray;
 }
 #box4{
     height: 17vw;
     width: 17vw;
+    border: 20px solid red ;
     background-color: yellowgreen;
 }
 #box5{
     height: 17vw;
     width: 17vw;
+    border: 25px solid red ;
     background-color: rgb(212, 212, 71);
 }
 #box6{
     height: 17vw;
     width: 17vw;
+    border: 30px solid yellow ;
     background-color: tomato;
 }
