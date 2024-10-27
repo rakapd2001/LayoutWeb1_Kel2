@@ -1,0 +1,39 @@
+#container{
+    height: 75vh;
+}
+#box{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    wra
+}
+#box1{
+    height: 17vw;
+    width: 17vw;
+    background-color: aquamarine;
+}
+#box2{
+    height: 17vw;
+    width: 17vw;
+    background-color: blue;
+}
+#box3{
+    height: 17vw;
+    width: 17vw;
+    background-color: brown;
+}
+#box4{
+    height: 17vw;
+    width: 17vw;
+    background-color: yellowgreen;
+}
+#box5{
+    height: 17vw;
+    width: 17vw;
+    background-color: beige;
+}
+#box6{
+    height: 17vw;
+    width: 17vw;
+    background-color: tomato;
+}
